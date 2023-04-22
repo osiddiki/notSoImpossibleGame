@@ -7,6 +7,10 @@ The game requires you to use the keyboard and display mmio simulator as well
 
 The game makes you, the player, a small red dot who must navigate through moving obstacles in order to reach the end of the game.
 
+**Controls:**
+WASD is used to move the main character around.
+	
+
 **Pseudocode:**
  
 
